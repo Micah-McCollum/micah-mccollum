@@ -1,6 +1,7 @@
 ## Hello There, I'm Micah M
 
 Recent CS graduate • Full-stack dev • Systems programmer
+
 Reach me @: [micah4mccollum@gmail.com](mailto:micah4mccollum@gmail.com)  
 
 Here are some highlights from the projects that I've pinned on my profile:
