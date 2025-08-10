@@ -21,7 +21,7 @@ A full-featured, encrypted financial planner app supporting:
 ### [Pocket Mortys Worthiness Evaluator API](https://github.com/duckJaguar/pocketmortys-evaluator-api)
 > Java 21 + Spring Boot + JPA + full test suite
 
-A backend REST API inspired by Pokémon-style games:
+A backend REST API inspired by the Pocket Morty game:
 -  Stat-based Morty evaluation logic
 -  JUnit + Postman test suite
 -  Role-based Spring Security auth
