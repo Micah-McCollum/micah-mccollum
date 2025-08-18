@@ -14,7 +14,7 @@ A full-featured, encrypted financial planner app supporting:
 -  Secure user authentication (Firebase)
 -  Expense/income tracking with charts (Recharts)
 -  AES-encrypted notes using the Web Crypto API
--  Calendar with event alerts
+-  Calendar utilizing Notification system for alerts
 
 ---
 
