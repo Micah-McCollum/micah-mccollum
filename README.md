@@ -7,7 +7,7 @@ Reach me @: [micah4mccollum@gmail.com](mailto:micah4mccollum@gmail.com)
 Here are some highlights from the projects that I've pinned on my profile:
 ---
 
-### [TypeScript Financial Planner](https://github.com/duckJaguar/TypeScript-Planner)
+### [TypeScript Financial Planner](https://github.com/Micah-McCollum/TypeScript-Planner)
 > React + Firebase + AES-GCM encryption + role-based auth
 
 A full-featured, encrypted financial planner app supporting:
@@ -18,7 +18,7 @@ A full-featured, encrypted financial planner app supporting:
 
 ---
 
-### [Pocket Mortys Worthiness Evaluator API](https://github.com/duckJaguar/pocketmortys-evaluator-api)
+### [Pocket Mortys Worthiness Evaluator API](https://github.com/Micah-McCollum/pocketmortys-evaluator-api)
 > Java 21 + Spring Boot + JPA + full test suite
 
 A backend REST API inspired by the Pocket Morty game:
@@ -29,7 +29,7 @@ A backend REST API inspired by the Pocket Morty game:
 
 ---
 
-### [Virtual Memory Manager](https://github.com/duckJaguar/virtualmemory-manager)
+### [Virtual Memory Manager](https://github.com/Micah-McCollum/virtualmemory-manager)
 > C11 + Makefile + bitmasking + LRU caching
 
 Low-level systems project that simulates:
