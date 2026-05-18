@@ -18,6 +18,17 @@ A full-featured, encrypted financial planner app supporting:
 
 ---
 
+### [TypeScript Financial Planner](https://github.com/Micah-McCollum/TypeScript-Planner)
+> React + Firebase + AES-GCM encryption + role-based auth
+
+A full-featured, encrypted financial planner app supporting:
+-  Secure user authentication (Firebase)
+-  Expense/income tracking with charts (Recharts)
+-  AES-encrypted notes using the Web Crypto API
+-  Calendar utilizing Notification system for alerts
+
+---
+
 ### [Pocket Mortys Worthiness Evaluator API](https://github.com/Micah-McCollum/Pocket-Morty-Evaluator)
 > Java 21 + Spring Boot + JPA + full test suite
 
